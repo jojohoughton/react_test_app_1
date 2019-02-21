@@ -1,7 +1,7 @@
 {
   "name": "react_test_app_1",
   "version": "0.1.0",
-  "homepage": "http://jojohoughton.github.io/react_test_app_1",
+  "homepage": "https://jojohoughton.github.io/react_test_app_1",
   "private": true,
   "dependencies": {
     "react": "^16.8.2",
